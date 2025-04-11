@@ -104,7 +104,7 @@ We may update this policy to reflect changes in our practices or legal requireme
 
 For questions or concerns about this Privacy Policy or our data practices, reach out to us:
 
-- **Email**: [Insert Email Address]
+- **Email**: me@proplayer919.dev
 - **Discord**: @pro_player919 (via https://discord.gg/VwgTgnNe5T)
 - **GitHub**: https://github.com/economix-app
 
