@@ -12,10 +12,10 @@ Hello there, you seem to have stumbled onto this page by accident, here are a fe
 
 ---
 
-[Polices / Automod](/policies/automod)
+[Polices / Automod](https://community.economix.lol/policies/automod)
 
-[Polices / Guidelines](/policies/guidelines)
+[Polices / Guidelines](https://community.economix.lol/policies/guidelines)
 
-[Polices / Privacy](/policies/privacy)
+[Polices / Privacy](https://community.economix.lol/policies/privacy)
 
-[Polices / ToS](/policies/tos)
+[Polices / ToS](https://community.economix.lol/policies/tos)
